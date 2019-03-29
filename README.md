@@ -18,6 +18,10 @@ Connects the big Dell laptop to the speaker system, ideal for background music
 Connects the Rack (ableton) computer to the IOSONO, and the IOSONO to the speakers.  Preset used for demo's and IOSONO setups.
 
 
+## IPEM - Ambisonics ASIL from RACK PC.xml
+Routes 62 connections from the rack PC directly to the speakers in ASIL.  Can be used for Ambisonics playback
+
+
 ## IPEM - Maker space ambisonics from RACK PC
 Connects the rack pc (ableton) to the 8 inputs and outputs in the maker space (usecase: synthi ambisonics)
 
