@@ -19,7 +19,7 @@ Connects the Rack (ableton) computer to the IOSONO, and the IOSONO to the speake
 
 
 ## IPEM - Ambisonics ASIL from RACK PC.xml
-Routes 62 connections from the rack PC directly to the speakers in ASIL.  Can be used for Ambisonics playback
+Routes 62 connections from the rack PC directly to the speakers in ASIL.  Can be used for Ambisonics playback and B-format playback (eg the patch in https://github.com/ArtScienceLab/ASIL_Ambisonics)
 
 
 ## IPEM - Maker space ambisonics from RACK PC
