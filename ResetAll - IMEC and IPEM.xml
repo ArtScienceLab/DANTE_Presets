@@ -3,6 +3,255 @@
     <name>ResetAll - IMEC and IPEM</name>
     <description>Dante Controller preset</description>
     <device>
+        <name>IDLab-Mocap-VirtualSoundcard</name>
+        <default_name>mocap</default_name>
+        <instance_id>
+            <device_id>AC1F6B737B100000</device_id>
+            <process_id>3496</process_id>
+        </instance_id>
+        <manufacturer_id>417564696E617465</manufacturer_id>
+        <manufacturer_name>Audinate Pty Ltd</manufacturer_name>
+        <model_id>44767357696E0000</model_id>
+        <model_name>Dante Virtual Soundcard</model_name>
+        <model_version>4.0.4</model_version>
+        <model_version_string>4.0.4.4</model_version_string>
+        <device_type>44767357696E0000</device_type>
+        <friendly_name>IDLab-Mocap-VirtualSoundcard</friendly_name>
+        <samplerate>48000</samplerate>
+        <encoding>24</encoding>
+        <interface network="0"/>
+        <txchannel danteId="1"/>
+        <txchannel danteId="2"/>
+        <txchannel danteId="3"/>
+        <txchannel danteId="4"/>
+        <txchannel danteId="5"/>
+        <txchannel danteId="6"/>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
+        <txchannel danteId="9"/>
+        <txchannel danteId="10"/>
+        <txchannel danteId="11"/>
+        <txchannel danteId="12"/>
+        <txchannel danteId="13"/>
+        <txchannel danteId="14"/>
+        <txchannel danteId="15"/>
+        <txchannel danteId="16"/>
+        <rxchannel danteId="1">
+            <name>01</name>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+    </device>
+    <device>
+        <name>IDLAB-VR1</name>
+        <default_name>DESKTOP-0R3UFU7</default_name>
+        <instance_id>
+            <device_id>AC1F6BA446D20000</device_id>
+            <process_id>4400</process_id>
+        </instance_id>
+        <manufacturer_id>417564696E617465</manufacturer_id>
+        <manufacturer_name>Audinate Pty Ltd</manufacturer_name>
+        <model_id>44767357696E0000</model_id>
+        <model_name>Dante Virtual Soundcard</model_name>
+        <model_version>4.0.4</model_version>
+        <model_version_string>4.0.4.4</model_version_string>
+        <device_type>44767357696E0000</device_type>
+        <friendly_name>IDLAB-VR1</friendly_name>
+        <samplerate>48000</samplerate>
+        <encoding>24</encoding>
+        <interface network="0"/>
+        <txchannel danteId="1"/>
+        <txchannel danteId="2"/>
+        <txchannel danteId="3"/>
+        <txchannel danteId="4"/>
+        <txchannel danteId="5"/>
+        <txchannel danteId="6"/>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
+        <txchannel danteId="9"/>
+        <txchannel danteId="10"/>
+        <txchannel danteId="11"/>
+        <txchannel danteId="12"/>
+        <txchannel danteId="13"/>
+        <txchannel danteId="14"/>
+        <txchannel danteId="15"/>
+        <txchannel danteId="16"/>
+        <rxchannel danteId="1">
+            <name>01</name>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+    </device>
+    <device>
+        <name>IDLAB-VR2</name>
+        <default_name>DESKTOP-RJCN7TQ</default_name>
+        <instance_id>
+            <device_id>AC1F6BA446D40000</device_id>
+            <process_id>4320</process_id>
+        </instance_id>
+        <manufacturer_id>417564696E617465</manufacturer_id>
+        <manufacturer_name>Audinate Pty Ltd</manufacturer_name>
+        <model_id>44767357696E0000</model_id>
+        <model_name>Dante Virtual Soundcard</model_name>
+        <model_version>4.0.4</model_version>
+        <model_version_string>4.0.4.4</model_version_string>
+        <device_type>44767357696E0000</device_type>
+        <friendly_name>IDLAB-VR2</friendly_name>
+        <samplerate>48000</samplerate>
+        <encoding>24</encoding>
+        <interface network="0"/>
+        <txchannel danteId="1"/>
+        <txchannel danteId="2"/>
+        <txchannel danteId="3"/>
+        <txchannel danteId="4"/>
+        <txchannel danteId="5"/>
+        <txchannel danteId="6"/>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
+        <txchannel danteId="9"/>
+        <txchannel danteId="10"/>
+        <txchannel danteId="11"/>
+        <txchannel danteId="12"/>
+        <txchannel danteId="13"/>
+        <txchannel danteId="14"/>
+        <txchannel danteId="15"/>
+        <txchannel danteId="16"/>
+        <rxchannel danteId="1">
+            <name>01</name>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+    </device>
+    <device>
         <name>IOSONO-RN6</name>
         <default_name>BKLYN-II-04520a</default_name>
         <instance_id>
@@ -20,7 +269,6 @@
         <friendly_name>IOSONO-RN6</friendly_name>
         <preferred_master value="false"/>
         <external_word_clock value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>1000</unicast_latency>
         <interface network="0">
@@ -1614,7 +1862,6 @@
         <redundancy value="false"/>
         <preferred_master value="true"/>
         <external_word_clock value="true"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>1000</unicast_latency>
         <interface network="0">
@@ -1744,7 +1991,6 @@
         <device_type_string>UltimoX2</device_type_string>
         <friendly_name>IPEM-MONITOR-BIGDESK</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <encoding>24</encoding>
         <unicast_latency>1000</unicast_latency>
@@ -1779,7 +2025,6 @@
         <device_type_string>UltimoX2</device_type_string>
         <friendly_name>IPEM-MONITOR-SMALLDESK</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <encoding>24</encoding>
         <unicast_latency>1000</unicast_latency>
@@ -1814,7 +2059,6 @@
         <device_type_string>UltimoX2</device_type_string>
         <friendly_name>IPEM-MONITOR-UPSTAIRS</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <encoding>24</encoding>
         <unicast_latency>1000</unicast_latency>
@@ -1852,7 +2096,6 @@
         <redundancy value="false"/>
         <preferred_master value="false"/>
         <external_word_clock value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>1000</unicast_latency>
         <interface network="0">
@@ -2576,7 +2819,6 @@
         <device_type_string>Brooklyn II</device_type_string>
         <friendly_name>RN2-1</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>150</unicast_latency>
         <interface network="0">
@@ -2669,7 +2911,6 @@
         <device_type_string>Brooklyn II</device_type_string>
         <friendly_name>RN2-2</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>1000</unicast_latency>
         <interface network="0">
@@ -2762,7 +3003,6 @@
         <device_type_string>Brooklyn II</device_type_string>
         <friendly_name>RN2-3</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>150</unicast_latency>
         <interface network="0">
@@ -2855,7 +3095,6 @@
         <device_type_string>Brooklyn II</device_type_string>
         <friendly_name>RN2-4</friendly_name>
         <preferred_master value="false"/>
-        <clock_pullup value="0"/>
         <samplerate>48000</samplerate>
         <unicast_latency>150</unicast_latency>
         <interface network="0">
