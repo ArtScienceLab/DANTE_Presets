@@ -5,6 +5,8 @@ Default dante presets for the labs.  Several presets are provided. Channel namin
 ### Best practice for saving custom presets
 When saving a dante preset; only select the relevant devices (hold CTRL to select multiple). In the advanced menu, click 'none' and then only select "RX channel subscriptions".  This will allow for faster preset loading.
 
+![alt text](./HoToSaveAPreset.png)
+
 
 ## DANTE-IPEM_default
 Last update june 2021
